@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I have developed my skills by reading publicly accessible articles, blogs etc. of many gracious people. It made me what I am today. However, my contribution to the community was very limited. I felt sorry about not sharing my past works and decided to spend some time to give back to the community.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[LinkedIn](www.linkedin.com/in/ali-sadik-kumlali)
